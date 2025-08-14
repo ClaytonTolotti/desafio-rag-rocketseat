@@ -1,7 +1,11 @@
 # desafio-rag-rocketseat
-Implementação para os desafios do curso AI Devs
+Implementação para os desafios do curso AI Devs.
 
-* Desenho de solução para a implementação NaiveRAG
-![images](imagens/Gemini_Generated_NaiveRAG.png)
+## Implementação de RAG
+- [Naive](naive_rag.ipynb)
+- [Parent](parent_rag.ipynb)
+- [Reranker](reranker_rag.ipynb)
 
-[Exemplo](naive)
+## Recursos
+- Gemini (llm)
+- Cohere (reranker)
